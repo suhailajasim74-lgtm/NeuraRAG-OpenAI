@@ -103,4 +103,3 @@ System:
 
 <hr>
 
-<h2 align="center">✨ Built with ❤️ using Generative AI ✨</h2>
